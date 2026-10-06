@@ -32,9 +32,3 @@ This repository contains the **Week 3 Unsupervised Machine Learning** project fo
 
 ---
 
-## 🚀 How to Run the Project Locally
-
-1. **Clone the Repository**:
-   ```bash
-   git clone [https://github.com/mahima5080/Iris-Flower-Clustering-KMeans-PCA.git](https://github.com/mahima5080/Iris-Flower-Clustering-KMeans-PCA.git)
-   cd Iris-Flower-Clustering-KMeans-PCA
